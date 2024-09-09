@@ -1,12 +1,8 @@
-// import Todolist from "./todolist";
-import Main from './ToDoLists';
-
+import TodoView from './todo-container/TodoView';
 function App() {
   return (
     <div>
-      {/* <Todolist/> */}
-      <Main/>
-      
+      <TodoView />
     </div>
   );
 }

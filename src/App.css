@@ -15,8 +15,7 @@ h2{
 }
 
 .list{
-  display: flex;
-  justify-content:  center;
+  align-content: center;
   margin-top: 15px;
   gap: 15px;
 
@@ -28,7 +27,3 @@ button{
 
 
 }
-.list{
-  background-color: rgb(157, 28, 28);
-}
-
